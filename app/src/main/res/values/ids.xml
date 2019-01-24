@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="nama_ketua" type="id" />
+    <item name="nama_wakil" type="id" />
+    <item name="misi" type="id" />
+    <item name="btn_exit" type="id" />
+</resources>

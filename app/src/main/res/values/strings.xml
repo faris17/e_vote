@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Informatika Vote</string>
+    <string name="kandidat_1">Kandidat Pertama</string>
+    <string name="pilih">PILIH KANDIDAT 1</string>
+    <string name="nama_ketua_kd1">Ketua Kandidat</string>
+    <string name="nama_wakil_kd1">Wakil Ketua</string>
+    <string name="visi">Visi</string>
+    <string name="misi">Misi</string>
+    <string name="pilih_dua">Pilih Kandidat 2</string>
+    <string name="content_misi">Di artikel saya yang sebelum nya pernah membuat bagaimana memasukan text dan belajar tentang layouting pada android studio,nah pada artikel saya yang sekarang akan menunjukan bagaimana cara memasukan gambar pada android studio.ikuti langkah langkah berikut:
+    Di artikel saya yang sebelum nya pernah membuat bagaimana memasukan text dan belajar tentang layouting pada android studio,nah pada artikel saya yang sekarang akan menunjukan bagaimana cara memasukan gambar pada android studio.ikuti langkah langkah berikut:
+        Di artikel saya yang sebelum nya pernah membuat bagaimana memasukan text dan belajar tentang layouting pada android studio,nah pada artikel saya yang sekarang akan menunjukan bagaimana cara memasukan gambar pada android studio.ikuti langkah langkah berikut:
+    </string>
+    <string name="content_misi_2">Di artikel saya yang sebelum nya pernah membuat bagaimana memasukan text dan belajar tentang layouting pada android studio,nah pada artikel saya yang sekarang akan menunjukan bagaimana cara memasukan gambar pada android studio.ikuti langkah langkah berikut:
+    Di artikel saya yang sebelum nya pernah membuat bagaimana memasukan text dan belajar tentang layouting pada android studio,nah pada artikel saya yang sekarang akan menunjukan bagaimana cara memasukan gambar pada android studio.ikuti langkah langkah berikut:
+        Di artikel saya yang sebelum nya pernah membuat bagaimana memasukan text dan belajar tentang layouting pada android studio,nah pada artikel saya yang sekarang akan menunjukan bagaimana cara memasukan gambar pada android studio.ikuti langkah langkah berikut:
+    </string>
+    <string name="himakom">HIMAKOM</string>
+    <string name="e_voting">E-VOTING</string>
+    <string name="sign_in">Sign in</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="voting">Voting</string>
+    <string name="id">ID</string>
+    <string name="logout">Logout</string>
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+    <string name="btn_exit">Exit</string>
+    <string name="exit" />
+</resources>
